@@ -1,7 +1,9 @@
 # React-Native-Simple-Authentication-Firebase
+<img src="authentication.gif" width="375" height="667">
+installation:
 
-installation
 Please get your own firebase api key to run. In app.js place is indicated that you can simply put. 
+
 ```
 npm i --save 
 expo start 
